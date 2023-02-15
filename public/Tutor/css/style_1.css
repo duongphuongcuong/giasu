@@ -1,0 +1,97 @@
+.info-header{
+  background-color: #53d55b; color: #fff;
+}
+.nav-header{
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+#a-dropdown-style{
+  font-size: 13px;
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #000;
+    opacity: 1 !important;
+}
+#a-dropdown-style:hover{
+  color: blue;
+}
+#img_slide_540_280{
+  height: 280px;
+  width: 540px;
+  object-fit: cover;
+}
+.banner-title{
+  width: 100%; 
+  background-color: #53d55b; 
+  text-align: center; border-radius: 3px; 
+  color: #fff; font-weight: bold; 
+  text-transform: uppercase;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.6);
+  cursor: default;
+}
+.register-find-tutor{
+  background-color: orange; 
+  margin-top: 8px; text-align: center; 
+  color:#fff; font-weight: bold; text-transform: uppercase;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.6);
+}
+.register-find-tutor a{
+  color: #fff;
+}
+.register-find-tutor a:hover{
+  color: red;
+}
+/*43b14b*/
+
+#marquee-banner{
+  color:#fff; background-color: #53d55b; font-weight: bold;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.6);
+}
+.contact-banner{
+  margin-top: 8px; background-color: #0397ff; color: #fff; 
+  font-weight: bold; text-transform: uppercase; 
+  border-radius: 5px; text-align: center;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.6);
+}
+.contact-banner span{
+  color: yellow;
+  font-size: 20px;
+}
+.choose-tutor-class{
+  text-align: center; font-weight: bold;
+  margin-top: 25px;
+  text-transform: capitalize;
+  /*box-shadow: 0 2px 4px 0 rgba(0,0,0,.6);*/
+}
+.choose-tutor-class a{
+  color: #000;
+}
+.choose-tutor-class a:hover{
+  color: blue;
+}
+.menu-title{
+  background-color: #0471dc; color: #fff; 
+  text-align: center; border-top-right-radius: 3px; 
+  border-top-left-radius: 3px; font-weight: ; 
+  text-transform: uppercase;
+}
+.menu-item{
+  padding-left: 20px; 
+  border-bottom: 1px solid #d6d6d6; 
+  background-color: #edeaea;
+}
+.menu-item a{
+  font-family: 'Arial';
+  color: #000;
+}
+.menu-item:hover{
+  background-color: #ff9800;
+}
+.menu-item:hover a{
+  color: #fff;
+}
